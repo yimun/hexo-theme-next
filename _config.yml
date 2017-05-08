@@ -34,7 +34,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -51,8 +51,8 @@ menu:
   categories: /categories
   about: /about
   # tags: /tags
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  # sitemap: /sitemap.xml
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -220,7 +220,7 @@ sidebar:
 # ---------------------------------------------------------------
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 # Automatically saving scroll position on each post/page in cookies.
 save_scroll: false
@@ -301,7 +301,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 226cee0dbc85b76161f9f1234e2a37f2
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -310,7 +310,7 @@ han: false
 disqus:
   enable: true
   shortname: yimublog
-  count: true
+  count: false
 
 # Hypercomments
 #hypercomments_id:
@@ -437,7 +437,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
