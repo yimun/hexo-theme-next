@@ -8,7 +8,7 @@ wechatpay: /image/wechatpay.png
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Yimu, Blog, 易木, 博客, 豆瓣, Android, 移动开发, 算法"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -38,7 +38,7 @@ seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
