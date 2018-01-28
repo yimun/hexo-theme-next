@@ -590,5 +590,10 @@ css: css
 js: js
 images: images
 
+# sidebar recent
+recent_posts_title: 近期文章
+recent_posts_layout: block
+recent_posts: true
+
 # Theme version
 version: 5.1.1
